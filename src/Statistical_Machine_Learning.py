@@ -12,9 +12,9 @@ st.image("Logo.png")
 st.title("Statistical Machine Learning")
 
 st.markdown("This is a digital version of the notes I kept for statistical machine learning (ML II) taught by [Prof. Dr. Marius Kloft](https://ml.cs.uni-kl.de) and \
-            [Prof. Dr. Sebastian Vollmer](https://sebastian.vollmer.ms) at Rheinland-Pfälzische Technische Universität in Kaiserslautern, RP, Deutschland. The lectures are organised from \
-            a storytelling perspective. The number of topics here do not correspond to the ones delivered by the professors to maintain a proper understanding. Hopefully, there will be good enough segues in these notes from one topic to another. The segues will help create a solid understanding of why a \
-            particular topics needs to be in the course. I have not covered the exam irrelevant stuff as it was in Winter Semester 2022/23.")
+            [Prof. Dr. Sebastian Vollmer](https://sebastian.vollmer.ms) at Rheinland-Pfälzische Technische Universität in Kaiserslautern, RP, Deutschland. The lecture series is written from \
+            a storytelling perspective. The number of topics here do not correspond to the ones delivered by the professors to maintain a more thorough understanding. Hopefully, there will be good enough segues in these notes from one topic to another. The segues will help create a solid understanding of why a \
+            particular topics needs to be in the lecture. I have not covered the exam irrelevant stuff as it was in Winter Semester 2022/23.")
 
 st.markdown("If you want to contribute to the notes, please open an issue on the repository: [Probabilistic-ml](https://github.com/rssr25/probabilistic-ml)")
 
