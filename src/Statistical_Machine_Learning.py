@@ -1,6 +1,4 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
 
 st.set_page_config(layout="wide")
 
@@ -29,24 +27,24 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
     st.write("[1. Introduction and recap of Machine Learning 1](1._Introduction)")
-    st.write("[2. Bayes classifier and LDA](2_2._Bayes_Classfier_and_LDA)")
-    st.write("[3. Bayesian Linear Regression ](3_3._Bayesian_Linear_Regression)")
-    st.write("[4. Bayesian Kernel Regression ](4_4._Bayesian_Kernel_Regression)")
-    st.write("[5. Laplace Approximation ](5_5._Laplace_Approximation)")
+    st.write("[2. Bayes classifier and LDA](2._Bayes_Classfier_and_LDA)")
+    st.write("[3. Bayesian Linear Regression ](3._Bayesian_Linear_Regression)")
+    st.write("[4. Bayesian Kernel Regression ](4._Bayesian_Kernel_Regression)")
+    st.write("[5. Laplace Approximation ](5._Laplace_Approximation)")
 
 with col2:
-    st.write("[6. Bayesian DNN Regression ](6_6._Bayesian_DNN_Regression)")
-    st.write("[7. Unifying View of Bayesian Regression ](7_7._Unifying_View_of_Bayesian_Regression)")
-    st.write("[8. Bayesian Classification ](8_8._Bayesian_Classification)")
-    st.write("[9. EM Algorithm ](9_9._EM_Algorithm)")
-    st.write("[10. Understanding EM ](10_10._Understanding_EM)")
+    st.write("[6. Bayesian DNN Regression ](6._Bayesian_DNN_Regression)")
+    st.write("[7. Unifying View of Bayesian Regression ](7._Unifying_View_of_Bayesian_Regression)")
+    st.write("[8. Bayesian Classification ](8._Bayesian_Classification)")
+    st.write("[9. EM Algorithm ](9._EM_Algorithm)")
+    st.write("[10. Understanding EM ](10._Understanding_EM)")
 
 with col3:
-    st.write("[11. Variational Inference ](11_11._Variational_Inference)")
-    st.write("[12. Introduction to Graphical Models ](12_12._Introduction_to_Graphical_Models)")
-    st.write("[13. Sampling ](13_13._Sampling)")
-    st.write("[14. Hidden Markov Model ](14_14._Hidden_Markov_Model)")
-    st.write("[15. Kalman Filter ](15_15._Kalman_Filter)")
+    st.write("[11. Variational Inference ](11._Variational_Inference)")
+    st.write("[12. Introduction to Graphical Models ](12._Introduction_to_Graphical_Models)")
+    st.write("[13. Sampling ](13._Sampling)")
+    st.write("[14. Hidden Markov Model ](14._Hidden_Markov_Model)")
+    st.write("[15. Kalman Filter ](15._Kalman_Filter)")
 
 st.write("***")
 
